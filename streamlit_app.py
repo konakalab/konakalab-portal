@@ -69,4 +69,4 @@ for i, app in enumerate(apps):
         st.write("\n")
 
 st.divider()
-st.caption("© 2024 My Name - Built with Streamlit")
+st.caption("© 2026 konakalab - Built with Streamlit")
