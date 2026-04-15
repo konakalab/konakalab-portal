@@ -2,8 +2,7 @@ import streamlit as st
 
 # ページ設定：ワイドモードにして、ポータル感を出す
 st.set_page_config(
-    page_title="My Data Portfolio",
-    page_icon="🚀",
+    page_title="konakalab's Dashboards Portal",
     layout="wide"
 )
 
