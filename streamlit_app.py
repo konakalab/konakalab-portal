@@ -22,8 +22,8 @@ st.markdown("""
     </style>
     """, unsafe_allow_html=True)
 
-st.title("🌐 My Dashboards Portal")
-st.info("私が作成したデータ分析ダッシュボードのアーカイブです。")
+st.title("🌐 konakalab's Dashboards Portal")
+st.info("konakalabが作成したデータ分析ダッシュボードのアーカイブです。")
 
 st.divider()
 
@@ -33,14 +33,14 @@ apps = [
     {
         "title": "B.LEAGUE Lineup Analysis",
         "url": "https://bleaguelineupanalysis-fceb7thn6vobjxkzreuhhg.streamlit.app/",
-        "description": "🏀 選手の組み合わせによる得失点効率の可視化。ラインナップの相性を分析します。",
+        "description": "🏀 Play-by-playデータに基づく選手・ラインナップ評価のダッシュボードです",
         "tag": "Sports"
     },
     {
-        "title": "Sample Analysis Project",
-        "url": "#", # 実際のURLに置き換え
-        "description": "📈 データのトレンド分析と将来予測を行うダッシュボードです。",
-        "tag": "Business"
+        "title": " 非公式Jリーグ王座(Unofficial Football J-League Champion, UFJC) 歴代ランキング",
+        "url": "https://ufjc-konakalab.streamlit.app/", # 実際のURLに置き換え
+        "description": "⚽ 「勝利で王者が移動する」をJリーグ開幕から追いかけるダッシュボードです",
+        "tag": "Sports"
     },
     # 3つ目、4つ目も同様に追加...
 ]
