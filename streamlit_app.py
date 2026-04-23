@@ -48,7 +48,7 @@ apps = [
         "tag": "スタジアム"
     },
     {
-        "title": " ",
+        "title": "FIFAワールドカップ2026予測",
         "url": "https://fifawc2026prediction-konakalab.streamlit.app/", # 実際のURLに置き換え
         "description": "⚽ FIFAワールドカップの統計予測モデルの予測結果を公開します",
         "tag": "サッカー"
