@@ -42,12 +42,17 @@ apps = [
         "tag": "サッカー"
     },
     {
-        "title": " FIFAワールドカップ2026予測",
+        "title": "パロマ瑞穂スタジアム(瑞穂公園陸上競技場)フォトギャラリー",
+        "url": "https://photo-gallery-mizuho-konakalab.streamlit.app/", # 実際のURLに置き換え
+        "description": "パロマ瑞穂スタジアム(瑞穂公園陸上競技場)および同球技場の改修前(2019年)から改修後(2026年)に私が撮影した写真を公開します",
+        "tag": "スタジアム"
+    },
+    {
+        "title": " ",
         "url": "https://fifawc2026prediction-konakalab.streamlit.app/", # 実際のURLに置き換え
         "description": "⚽ FIFAワールドカップの統計予測モデルの予測結果を公開します",
         "tag": "サッカー"
     },
-    # 3つ目、4つ目も同様に追加...
 ]
 
 # 3列構成でカードを並べる
